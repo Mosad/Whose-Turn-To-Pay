@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "172490946329",
+    "firebase_url": "https://app-project-14712.firebaseio.com",
+    "project_id": "app-project-14712",
+    "storage_bucket": "app-project-14712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172490946329:android:b02de9bac11311a6",
+        "android_client_info": {
+          "package_name": "com.example.mac.whoseturntopay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172490946329-pnmtum75g8uklqur5vnm3tjnpasn5gar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ybXloV8Y7Z4e6uDzgQaOsvZ7y6nnJI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
