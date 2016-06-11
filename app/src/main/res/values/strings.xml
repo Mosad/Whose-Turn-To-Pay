@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Whose Turn to Pay</string>
     <string name="action_settings">Settings</string>
+    <string name="action_add">Add</string>
+    <string name="add_meal_title">Add Meal</string>
+    <string-array name="who_paid_array">
+        <item>Mahmoud Younes</item>
+        <item>Omar AlReyami</item>
+        <item>It\'s a split</item>
+    </string-array>
 </resources>
